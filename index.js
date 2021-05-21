@@ -5,6 +5,6 @@ function light() {
 function dark() {
   document.body.style.backgroundColor = "black";
 }
-function myFunction() {
-  document.body.style.backgroundImage = "url('img_tree.png')";
+function bowserf() {
+  document.body.style.backgroundImage = "url('4542D6DA-5AA5-41BD-914F-8341B9BC2295.jpeg')";
 }
