@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Raleway:wght@300&display=swap');
+body {
+  background-color: black;
+}
+h1 {
+  color: aquamarine;
+  font-family: 'Audiowide', cursive;
+}
+p {
+  color: chartreuse;
+  font-family: 'Raleway', sans-serif;
+}
+a {
+  color: cadetblue;
+  font-family: 'Raleway', sans-serif;
+}
+h2 {
+  color: chartreuse;
+  font-family: 'Raleway', sans-serif;
+}
