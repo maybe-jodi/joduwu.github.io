@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 body {
   background-color: black;
 }
@@ -12,5 +12,5 @@ a {
   color: cadetblue;
 }
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Audiowide', cursive;
 }
