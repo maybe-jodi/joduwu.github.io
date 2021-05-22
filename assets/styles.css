@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@font-face {
+        font-family: "SM286";
+        src: url(SM286.tff);
+}
 body {
   background-color: black;
 }
 h1 {
   color: aquamarine;
-  font-family: 'Audiowide', cursive;
+  font-family: 'SM286', cursive;
   text-align: center;
 }
 p, h2 {
