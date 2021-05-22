@@ -7,18 +7,13 @@ h1 {
   font-family: 'Audiowide', cursive;
   text-align: center;
 }
-p {
+p, h2 {
   color: chartreuse;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
 a {
   color: cadetblue;
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
-}
-h2 {
-  color: chartreuse;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
