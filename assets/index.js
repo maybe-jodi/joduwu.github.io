@@ -12,3 +12,12 @@ document.body.style.backgroundSize = "cover";
     image.style.width = '100%';
     image.style.height = 'auto';
 }
+function mychem() {
+  document.body.style.backgroundImage = "url('function bowserf() {
+  document.body.style.backgroundImage = "url('')";
+  document.body.style.backgroundRepeat = "no-repeat";
+document.body.style.backgroundSize = "cover";
+    var image = document.getElementById('container');
+    image.style.width = '100%';
+    image.style.height = 'auto';
+}
