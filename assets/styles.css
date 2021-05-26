@@ -12,17 +12,17 @@ body {
   text-align: center;
 }
 h1 {
-  color: aquamarine;
+  color: #8B9EB7;
   font-family: 'SM286', cursive;
   text-align: center;
 }
 p, h2 {
-  color: chartreuse;
+  color: #1F5673;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
-a href{
-  color: cadetblue;
+a {
+  color: #9DA2AB;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
