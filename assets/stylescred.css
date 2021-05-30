@@ -6,12 +6,12 @@
      url('SM286.ttf') format('truetype'), /* Safari, Android, iOS */
      url('SM286.svg#levenim') format('svg'); /* Legacy iOS */
 }
-/* CSS HEX */
+/* CSS HEX
 --dark-turquoise: #1ccad8;
 --blue-sapphire: #1f5673;
 --maximum-green: #679436;
 --alloy-orange: #ba5c12;
---olive-drab-7: #393a10;
+--olive-drab-7: #393a10;*/
 body {
   color: #ba5c12;
   font-family: 'SM286', cursive;
