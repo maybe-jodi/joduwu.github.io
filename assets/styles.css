@@ -7,12 +7,12 @@
      url('SM286.ttf') format('truetype'), /* Safari, Android, iOS */
      url('SM286.svg#levenim') format('svg'); /* Legacy iOS */
 }
-/* CSS HEX */
+/* CSS HEX 
 --dark-turquoise: #1ccad8;
 --blue-sapphire: #1f5673;
 --maximum-green: #679436;
 --alloy-orange: #ba5c12;
---olive-drab-7: #393a10;
+--olive-drab-7: #393a10;*/
 body {
   background-color: black;
   text-align: center;
@@ -28,7 +28,7 @@ p, h2 {
   text-align: center;
 }
 a {
-  color: #393a10;
+  color: #ba5c12;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
