@@ -7,22 +7,28 @@
      url('SM286.ttf') format('truetype'), /* Safari, Android, iOS */
      url('SM286.svg#levenim') format('svg'); /* Legacy iOS */
 }
+/* CSS HEX */
+--dark-turquoise: #1ccad8;
+--blue-sapphire: #1f5673;
+--maximum-green: #679436;
+--alloy-orange: #ba5c12;
+--olive-drab-7: #393a10;
 body {
   background-color: black;
   text-align: center;
 }
 h1 {
-  color: #8B9EB7;
+  color: #1ccad8;
   font-family: 'SM286', cursive;
   text-align: center;
 }
 p, h2 {
-  color: #1F5673;
+  color: #679436;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
 a {
-  color: #9DA2AB;
+  color: #393a10;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
