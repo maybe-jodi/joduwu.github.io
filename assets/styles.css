@@ -66,12 +66,12 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li a:hover:not(.active) {
   background-color: #111;
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #04AA6D;
 }
 .dropbtn {
   background-color: #4CAF50;
